@@ -1,5 +1,5 @@
 # VimTutor
-
+# by tjygg
 [VimTutor-note][note] | [Vim on git][vim] | [Vim-galore][galore] | [Vim][vimorg] | [SpaceVim][SpaceVim] | [Hack SpaceVim][hackspvim]
 
 感觉vimtutor是众多vim帮助文档中最好的入门教程，其中的每一个知识点都有相应<br />
